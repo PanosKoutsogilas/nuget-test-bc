@@ -1,6 +1,6 @@
 {
-  "country": "us",
-  "appFolders": [],
+  "country": "nl",
+  "appFolders": ["nuget-hello-world"],
   "testFolders": [],
   "bcptTestFolders": []
 }
